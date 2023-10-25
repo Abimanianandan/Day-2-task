@@ -1,0 +1,1 @@
+day2 task contain diffrence of document and window object. 
